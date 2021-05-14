@@ -6,3 +6,9 @@ Tool to query bindings of Google Cloud Platform IAM, organisation wide.
 
     giam roles john.doe@galaxy.com
 
+## install
+
+    go install github.com/emicklei/giam@latest
+    
+    
+(c) 2021 ernestmicklei.com MIT Licensed.
